@@ -10,11 +10,14 @@ body{
 main{
     flex-direction: row;
     flex: auto;
+    /*border: 1px solid;*/
+    background-color: rgb(184, 210, 211);
 }
 
 article{
     flex: 2;
     overflow-y: auto;
+    /*background-color: lightskyblue;*/
 }
 
 aside{
