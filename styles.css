@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Roboto");
+
 body main{
     display: flex;
 }
@@ -28,10 +28,9 @@ aside{
 }
 
 li{
-    font-family: Roboto;
     font-size: large;
 }
 
 li a:hover {
-        font-size: larger;
+    font-size: larger;
 }
